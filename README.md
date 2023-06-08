@@ -15,7 +15,7 @@ Then you can rename all these into simple numbers such as -
 ..... so on 
 
 # How to use
-1.just place the batch_rename.exe file into the folder where the files to be renamed as stored./n
+1.just place the batch_rename.exe file into the folder where the files to be renamed as stored.
 2.Then run it and input the name of first file, last file you want to rename.
-3.Then input whether you want to name files in decreasing order./n
+3.Then input whether you want to name files in decreasing order.
 4.Input the number you want to start renaming the files from.
