@@ -1,5 +1,5 @@
 # batch-rename
-Used to rename all the files present in a folder in a sequential way.
+A program used to rename all the files present in a folder in a sequential way.
 
 # use case
 Suppose you have several images in a folder named as -
