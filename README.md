@@ -3,7 +3,7 @@ A program used to rename all the files present in a folder in a sequential way.
 
 # Download
 you can download the exe file from the "releses" section on the right hand side panel.
-or download the latest version from over here - https://github.com/Hemant-29/batch-rename/releases/tag/v1.0
+or download the latest version from over here - https://github.com/Hemant-29/batch-rename/releases/tag/v1.1
 
 # use case
 Suppose you have several images in a folder named as -
