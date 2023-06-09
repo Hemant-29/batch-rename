@@ -13,6 +13,8 @@ numlength = 0
 for i in filename_first:
     if i.isnumeric():
         numlength += 1
+if changed_first == "":
+    changed_first = 1
 
 
 def get_extension(filename):
@@ -79,3 +81,4 @@ def generate_command(filename_first, filename_last):
 generate_command(filename_first, filename_last)
 
 os.system("_cmd.cmd")
+os.remove("_cmd.cmd")
